@@ -67,7 +67,3 @@ data/
 ├── participants.csv              # Тестовые данные (12 участников)
 └── participants-with-errors.csv  # Данные с ошибками для проверки импорта
 ```
-
-## Лицензия
-
-MIT
